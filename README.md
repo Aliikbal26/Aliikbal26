@@ -1,4 +1,4 @@
-![Header](./img/banner.png)
+![Header](./img/banner-ali.png)
 <hr>
 
 #### 👋 Hi, I'm Ali Ikbal
